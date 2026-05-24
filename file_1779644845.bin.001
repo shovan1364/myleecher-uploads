@@ -1,0 +1,812 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	<title>Downloads | EasyJtag &#8211; Fastest Memory Programmer in the word!</title>
+			
+	
+	<link rel="pingback" href="https://easy-jtag.com/xmlrpc.php" />
+
+		<!--[if lt IE 9]>
+		<script src="https://easy-jtag.com/wp-content/themes/ElegantFusion/js/html5.js&quot;" type="text/javascript"></script>
+	<![endif]-->
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<meta name='robots' content='max-image-preview:large' />
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel='dns-prefetch' href='//connect.facebook.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="EasyJtag - Fastest Memory Programmer in the word! &raquo; Feed" href="https://easy-jtag.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="EasyJtag - Fastest Memory Programmer in the word! &raquo; Comments Feed" href="https://easy-jtag.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://easy-jtag.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Feasy-jtag.com%2Fdownloads%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://easy-jtag.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Feasy-jtag.com%2Fdownloads%2F&#038;format=xml" />
+<meta content="ElegantFusion v." name="generator"/><style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://easy-jtag.com/wp-includes/css/dist/block-library/style.min.css?ver=6.9.4' type='text/css' media='all' />
+
+<style id='wp-block-preformatted-inline-css' type='text/css'>
+.wp-block-preformatted{box-sizing:border-box;white-space:pre-wrap}:where(.wp-block-preformatted.has-background){padding:1.25em 2.375em}
+/*# sourceURL=https://easy-jtag.com/wp-includes/blocks/preformatted/style.min.css */
+</style>
+
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='wpdm-fonticon-css' href='https://easy-jtag.com/wp-content/plugins/download-manager/assets/wpdm-iconfont/css/wpdm-icons.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdm-front-css' href='https://easy-jtag.com/wp-content/plugins/download-manager/assets/css/front.min.css?ver=3.3.54' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdm-front-dark-css' href='https://easy-jtag.com/wp-content/plugins/download-manager/assets/css/front-dark.min.css?ver=3.3.54' type='text/css' media='all' />
+<link rel='stylesheet' id='datatable-css-css' href='https://easy-jtag.com/wp-content/plugins/download-manager/assets/css/jquery.dataTables.min.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cmplz-general-css' href='https://easy-jtag.com/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1776715600' type='text/css' media='all' />
+<style id="fusion-fonts-css" media="all">@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWV4exQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWV4exQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 800;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWV4exQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4uaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4uaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4uaVc.ttf) format('truetype');
+}
+</style>
+<link rel='stylesheet' id='fusion-style-css' href='https://easy-jtag.com/wp-content/themes/ElegantFusion/style.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='fullwidth-template-no-sidebar-css' href='https://easy-jtag.com/wp-content/plugins/fullwidth-templates/assets/css/fullwidth-template-no-sidebar.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://easy-jtag.com/wp-content/plugins/tablepress/css/build/default.css?ver=3.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-css-css' href='https://easy-jtag.com/wp-content/themes/ElegantFusion/epanel/shortcodes/css/shortcodes.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-responsive-css-css' href='https://easy-jtag.com/wp-content/themes/ElegantFusion/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='__EPYT__style-css' href='https://easy-jtag.com/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=14.2.6' type='text/css' media='all' />
+<style id='__EPYT__style-inline-css' type='text/css'>
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+/*# sourceURL=__EPYT__style-inline-css */
+</style>
+<link rel='stylesheet' id='fancybox-css' href='https://easy-jtag.com/wp-content/themes/ElegantFusion/epanel/page_templates/js/fancybox/jquery.fancybox-1.3.4.css?ver=1.3.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='et_page_templates-css' href='https://easy-jtag.com/wp-content/themes/ElegantFusion/epanel/page_templates/page_templates.css?ver=1.8' type='text/css' media='screen' />
+<link rel='stylesheet' id='lightboxStyle-css' href='https://easy-jtag.com/wp-content/plugins/lightbox-plus/css/lightweight/colorbox.min.css?ver=2.7.2' type='text/css' media='screen' />
+<script type="text/javascript" src="https://easy-jtag.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://easy-jtag.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://easy-jtag.com/wp-content/plugins/download-manager/assets/js/wpdm.min.js?ver=6.9.4" id="wpdm-frontend-js-js"></script>
+<script type="text/javascript" id="wpdm-frontjs-js-extra">
+/* <![CDATA[ */
+var wpdm_url = {"home":"https://easy-jtag.com/","site":"https://easy-jtag.com/","ajax":"https://easy-jtag.com/wp-admin/admin-ajax.php"};
+var wpdm_js = {"spinner":"\u003Ci class=\"wpdm-icon wpdm-sun wpdm-spin\"\u003E\u003C/i\u003E","client_id":"c64b617bdd868f7f62c58b49ee8daf9e"};
+var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click following button to start download.","start_dl":"Start Download"};
+//# sourceURL=wpdm-frontjs-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://easy-jtag.com/wp-content/plugins/download-manager/assets/js/front.min.js?ver=3.3.54" id="wpdm-frontjs-js"></script>
+<script type="text/javascript" src="https://easy-jtag.com/wp-content/plugins/download-manager/assets/js/jquery.dataTables.min.js?ver=6.9.4" id="datatable-js"></script>
+<script type="text/javascript" id="__ytprefs__-js-extra">
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"https://easy-jtag.com/wp-admin/admin-ajax.php","security":"ec6ffbd2e3","gallery_scrolloffset":"20","eppathtoscripts":"https://easy-jtag.com/wp-content/plugins/youtube-embed-plus/scripts/","eppath":"https://easy-jtag.com/wp-content/plugins/youtube-embed-plus/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"14.2.6","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com/embed/\"], iframe[src*=\"youtube-nocookie.com/embed/\"]","ajax_compat":"","maxres_facade":"eager","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","facade_mode":"","not_live_on_channel":""};
+//# sourceURL=__ytprefs__-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://easy-jtag.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=14.2.6" id="__ytprefs__-js"></script>
+<script type="text/javascript" src="https://easy-jtag.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7" id="ga-external-tracking-js"></script>
+<link rel="https://api.w.org/" href="https://easy-jtag.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://easy-jtag.com/wp-json/wp/v2/pages/1349" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://easy-jtag.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9.4" />
+<link rel="canonical" href="https://easy-jtag.com/downloads/" />
+<link rel='shortlink' href='https://easy-jtag.com/?p=1349' />
+<meta name="generator" content="Software Issue Manager v5.0.1 - https://emdplugins.com" />
+		<style>
+			#breadcrumbs, .read-more span, .testimonial span.title, .entry .meta-info, .entry .meta-info a, .entry .meta-info a:hover, .subtitle, .comment_date, .comment-reply-link:before, .bottom-nav li.current_page_item a, #content .wp-pagenavi .nextpostslink, #content .wp-pagenavi .previouspostslink { color: #ff1919; }
+			.mobile_nav { border-color: #ff1919; }
+			#top-menu a .menu-highlight, #mobile_menu  .menu-highlight { background-color: #ff1919; }
+			a { color: #16a7e5; }
+			body, .footer-widget { color: #454545; }
+			h1, h2, h3, h4, h5, h6, .testimonial h2, #recent-updates h2, .recent-update h3 a, .footer-widget h4.widgettitle, .widget h4.widgettitle, .entry h2.title a, h1.title, #comments, #reply-title { color: #454545; }
+
+				</style>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />	<style>
+		#top-area, #footer-bottom { background-image: url(https://easy-jtag.com/wp-content/uploads/2014/05/fon1_3.jpg); }
+	</style>
+<!-- All in one Favicon 4.8 --><link rel="shortcut icon" href="https://easy-jtag.com/wp-content/uploads/2013/04/1366849820_phone_settings.png" />
+<link rel="icon" href="https://easy-jtag.com/wp-content/uploads/2013/04/1366849820_phone_settings1.png" type="image/png"/>
+<meta property="og:site_name" content="EasyJtag - Fastest Memory Programmer in the word!" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:url" content="https://easy-jtag.com/downloads/" />
+<meta property="og:title" content="Downloads" />
+<meta property="og:image" content="https://easy-jtag.com/wp-content/uploads/2015/01/untitled2.jpg" />
+<meta property="og:image:width" content="778" />
+<meta property="og:image:height" content="566" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'enabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+  
+	_gaq.push(['_setAccount', 'UA-52069840-1']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+<meta name="generator" content="WordPress Download Manager 3.3.54" />
+                <style>
+        /* WPDM Link Template Styles */        </style>
+                <style>
+
+            :root {
+                --color-primary: #4a8eff;
+                --color-primary-rgb: 74, 142, 255;
+                --color-primary-hover: #4a8eff;
+                --color-primary-active: #4a8eff;
+                --clr-sec: #6c757d;
+                --clr-sec-rgb: 108, 117, 125;
+                --clr-sec-hover: #6c757d;
+                --clr-sec-active: #6c757d;
+                --color-secondary: #6c757d;
+                --color-secondary-rgb: 108, 117, 125;
+                --color-secondary-hover: #6c757d;
+                --color-secondary-active: #6c757d;
+                --color-success: #18ce0f;
+                --color-success-rgb: 24, 206, 15;
+                --color-success-hover: #18ce0f;
+                --color-success-active: #18ce0f;
+                --color-info: #2CA8FF;
+                --color-info-rgb: 44, 168, 255;
+                --color-info-hover: #2CA8FF;
+                --color-info-active: #2CA8FF;
+                --color-warning: #FFB236;
+                --color-warning-rgb: 255, 178, 54;
+                --color-warning-hover: #FFB236;
+                --color-warning-active: #FFB236;
+                --color-danger: #ff5062;
+                --color-danger-rgb: 255, 80, 98;
+                --color-danger-hover: #ff5062;
+                --color-danger-active: #ff5062;
+                --color-green: #30b570;
+                --color-blue: #0073ff;
+                --color-purple: #8557D3;
+                --color-red: #ff5062;
+                --color-muted: rgba(69, 89, 122, 0.6);
+                --wpdm-font: "Sen", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+            }
+
+            .wpdm-download-link.btn.btn-primary {
+                border-radius: 16px;
+            }
+
+
+        </style>
+        
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/uk_UA/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+</head>
+<body class="wp-singular page-template page-template-template-page-builder-no-sidebar page-template-template-page-builder-no-sidebar-php page page-id-1349 wp-theme-ElegantFusion unknown et_includes_sidebar fpt-template fpt-template-ElegantFusion">
+		<header id="main-header">
+		<div id="top-area">
+			<div class="top-content container clearfix">
+								<a href="https://easy-jtag.com/"><img src="https://easy-jtag.com/wp-content/uploads/2014/12/logo11.png" alt="EasyJtag - Fastest Memory Programmer in the word!" id="logo"/></a>
+
+				<div id="et_mobile_nav_menu"><a href="#" class="mobile_nav closed">Navigation Menu<span></span></a></div>
+				<div id="menu-wrap">
+					<nav id="top-menu">
+					<ul id="menu-main" class="nav"><li id="menu-item-362" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-362"><a href="https://easy-jtag.com/">Home</a></li>
+<li id="menu-item-1415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1415"><a href="https://easy-jtag.com/product-features/">Product</a>
+<ul class="sub-menu">
+	<li id="menu-item-2032" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2032"><a href="https://easy-jtag.com/academy/">e-Academy</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2911"><a href="https://easy-jtag.com/z3x-certified-trainers/">EasyJTAG Team Certified Trainers</a></li>
+		<li id="menu-item-2923" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2923"><a href="https://wiki.z3x-team.com/index.php?title=Main_Page">Z3X Team Wiki</a></li>
+		<li id="menu-item-2924" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2924"><a href="https://wiki.z3x-team.com/index.php?title=FAQ">Z3X Products FAQ</a></li>
+		<li id="menu-item-1464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1464"><a href="https://easy-jtag.com/knowledge-base-manuals/">Knowledge Base</a>
+		<ul class="sub-menu">
+			<li id="menu-item-1935" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1935"><a href="https://easy-jtag.com/ufs-memory/">UFS Memory (new)</a></li>
+			<li id="menu-item-1680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1680"><a href="https://easy-jtag.com/faq-pinouts/">FAQ.Pinouts</a></li>
+			<li id="menu-item-1683" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1683"><a href="https://easy-jtag.com/emmc-isp-tp-discovery/">eMMC ISP TP w/o PullOFF</a></li>
+			<li id="menu-item-1692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1692"><a href="https://easy-jtag.com/locating-emmc-test-points-pulloff/">eMMC ISP TP with Pull OFF</a></li>
+			<li id="menu-item-1706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1706"><a href="https://easy-jtag.com/emmc-forensis-with-autopsy/">eMMC Forensis with Autopsy</a></li>
+			<li id="menu-item-1721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1721"><a href="https://easy-jtag.com/guide-for-resizing-gpt-partitions/">Guide for resizing GPT partitions</a></li>
+		</ul>
+</li>
+		<li id="menu-item-2927" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2927"><a href="https://forum.gsmhosting.com/vbb/f672/">Support Forum</a></li>
+		<li id="menu-item-2926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2926"><a href="https://support.z3x-team.com/">Create Support Ticket</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1377"><a href="https://easy-jtag.com/hardware/">Hardware</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3041"><a href="https://easy-jtag.com/easyjtag-3-box/">EasyJTAG Plus 2023</a></li>
+		<li id="menu-item-1782" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1782"><a href="https://easy-jtag.com/easyjtag-emmc-socket/">EasyJTAG eMMC Socket</a></li>
+		<li id="menu-item-1667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1667"><a href="https://easy-jtag.com/easyjtag-2nd-generation-hw/">EasyJTAG Plus Box Hardware</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2959"><a href="https://easy-jtag.com/accessories/">Accessories</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2040" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2040"><a href="https://easy-jtag.com/easyjtag-plus-accessories/">EasyJTAG Plus Accessories</a></li>
+		<li id="menu-item-1938" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1938"><a href="https://easy-jtag.com/ufskit/">EasyJTAG UFS Kit (new)</a></li>
+		<li id="menu-item-1857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1857"><a href="https://easy-jtag.com/nand-kit-2/">EasyJTAG NANDKit</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1509"><a href="https://easy-jtag.com/easyjtag-acessories/">EasyJTAG GEN1 Accessories</a></li>
+	<li id="menu-item-1378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1378"><a href="https://easy-jtag.com/software-2/">Software</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1533"><a href="https://easy-jtag.com/easyjtag-suite/">EasyJTAG Suite</a></li>
+		<li id="menu-item-1634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1634"><a href="https://easy-jtag.com/easyjtag-plus-software/">EasyJTAG Plus Software</a></li>
+		<li id="menu-item-1530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1530"><a href="https://easy-jtag.com/android-emmc-explorer/">Android eMMC Explorer [Free Addon]</a></li>
+		<li id="menu-item-1542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1542"><a href="https://easy-jtag.com/lg-activation-pro-paid-add-on/">LG activation PRO (Paid Add-on)</a></li>
+		<li id="menu-item-1538" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1538"><a href="https://easy-jtag.com/z3x-samsung-pro-paid-addon/">Z3X Samsung PRO (Paid Add-on)</a></li>
+		<li id="menu-item-1637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1637"><a href="https://easy-jtag.com/third-party-software-easyapi/">Third party software ( EasyAPI )</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1376"><a href="https://easy-jtag.com/product-features/">Product features</a></li>
+	<li id="menu-item-1380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1380"><a href="https://easy-jtag.com/supported-phones-2/">Supported phones</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1570"><a href="https://easy-jtag.com/phones-pinouts/">Phones Pinouts</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1375" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1349 current_page_item menu-item-1375"><a href="https://easy-jtag.com/downloads/" aria-current="page">Downloads</a></li>
+<li id="menu-item-1405" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1405"><a href="https://easy-jtag.com/category/news/">News</a></li>
+<li id="menu-item-1627" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1627"><a href="http://z3x-team.com/where-to-buy/">Buy Box</a></li>
+<li id="menu-item-1583" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1583"><a href="https://z3x-shop.com/">Buy Addons</a></li>
+</ul>					</nav> <!-- #top-menu -->
+
+					<ul id="social-icons">
+					<li><a href="https://easy-jtag.com/feed/" target="_blank"><img src="https://easy-jtag.com/wp-content/themes/ElegantFusion/images/rss.png" alt="Rss" /></a></li><li><a href="https://www.facebook.com/easyjtag" target="_blank"><img src="https://easy-jtag.com/wp-content/themes/ElegantFusion/images/facebook.png" alt="Facebook" /></a></li>					</ul> <!-- #social-icons -->
+				</div> <!-- #menu-wrap -->
+			<div class="page-title-area">
+	<h1>Downloads</h1>
+</div> <!-- .page-title-area -->			</div> <!-- .container -->
+		</div> <!-- #top-area -->
+
+		
+			<div id="breadcrumbs-wrapper">
+			<div class="container clearfix">
+				<div id="et-search-form">
+					<form method="get" class="searchform" action="https://easy-jtag.com//">
+						<input type="text" value="Search This Site..." name="s" id="search_input" />
+						<input type="image" alt="Submit" src="https://easy-jtag.com/wp-content/themes/ElegantFusion/images/search-icon.png" id="search_submit" />
+					</form>
+				</div> <!-- #et-search-form -->
+
+				<div id="breadcrumbs">
+					<a href="https://easy-jtag.com/" class="breadcrumbs_home">Home</a> <span class="raquo">&raquo;</span>
+
+									  Downloads					</div> <!-- #breadcrumbs -->			</div> <!-- .container -->
+		</div> <!-- #breadcrumbs-wrapper -->
+		</header> <!-- #main-header -->
+<pre class="wp-block-preformatted">
+    <script>
+        jQuery(function($){
+
+            var __dt = $('#wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca').dataTable({
+                "dom": '<"wpdmdt-toolbar"lfrB>t<"wpdmdt-toolbarb"ip>',
+                responsive: true,
+                "order": [[ 0, "asc" ]],
+                "language": {
+                    "lengthMenu": "Display _MENU_ downloads per page",
+                    "zeroRecords": "Nothing _START_ to - sorry",
+                    "info": "Showing _START_ to _END_ of _TOTAL_ downloads",
+                    "infoEmpty": "No downloads available",
+                    "infoFiltered": "(filtered from _MAX_ total downloads)",
+                    "emptyTable":     "No data available in table",
+                    "infoPostFix":    "",
+                    "thousands":      ",",
+                    "loadingRecords": "Loading...",
+                    "processing":     "Processing...",
+                    "search":         "Search:",
+                    "paginate": {
+                        "first":      "First",
+                        "last":       "Last",
+                        "next":       "Next",
+                        "previous":   "Previous"
+                    },
+                    "aria": {
+                        "sortAscending":  " : activate to sort column ascending",
+                        "sortDescending": ": activate to sort column descending"
+                    }
+                },
+                "iDisplayLength": 20,
+                "aLengthMenu": [[20, 10, 25, 50, -1], [20, 10, 25, 50, "All"]]
+            });
+
+                    });
+    </script>
+<style>
+    .wpdmdt-toolbar {
+        padding: 10px;
+    }
+    .wpdmdt-toolbarb {
+        padding: 5px 10px 10px;
+    }
+    .wpdmdt-toolbar > div {
+        display: inline-block;
+    }
+    table,td,th{
+        border: 0;
+    }
+    #wpdm-all-packages .card{
+        overflow: hidden;
+    }
+    .dataTables_wrapper .table{
+        margin: 0;
+    }
+    #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca{
+        border-bottom: 1px solid #dddddd;
+        border-top: 1px solid #dddddd;
+        font-size: 10pt;
+        min-width: 100%;
+    }
+    #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca .wpdm-download-link img{
+        box-shadow: none !important;
+        max-width: 100%;
+    }
+    .w3eden .pagination{
+        margin: 0 !important;
+    }
+    #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca td:not(:first-child){
+        vertical-align: middle !important;
+    }
+    #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca td.__dt_col_download_link .btn{
+        display: flex;
+        width: 100%;
+    }
+    #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca td.__dt_col_download_link,
+    #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca th#download_link{
+        max-width: 155px !important;
+        width: 155px;
+
+    }
+    #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca th{
+        background-color: rgba(0,0,0,0.04);
+        border-bottom: 1px solid rgba(0,0,0,0.025);
+    }
+    #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca_length label,
+    #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca_filter label{
+        font-weight: 400;
+    }
+    #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca_filter input[type=search]{
+        display: inline-block;
+        width: 200px;
+    }
+    #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca_length select{
+        display: inline-block;
+        width: 60px;
+    }
+
+    #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca .package-title{
+        color:#36597C;
+        font-size: 11pt;
+        font-weight: 700;
+    }
+    #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca .small-txt{
+        margin-right: 7px;
+    }
+    #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca td{
+        min-width: 150px;
+    }
+
+    #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca td.__dt_col_categories{
+        max-width: 300px;
+    }
+
+    #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca .small-txt,
+    #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca small{
+        font-size: 9pt;
+    }
+    .w3eden .table-striped tbody tr:nth-of-type(2n+1) {
+        background-color: rgba(0,0,0,0.015);
+    }
+    .dataTables_wrapper .dataTables_paginate .paginate_button:active,
+    .dataTables_wrapper .dataTables_paginate .paginate_button:focus,
+    .dataTables_wrapper .dataTables_paginate .paginate_button:hover,
+    .dataTables_wrapper .dataTables_paginate .paginate_button{
+        margin: 0 !important;
+        padding: 0 !important;
+        border: 0 !important;
+        background: transparent !important;
+    }
+
+
+    @media (max-width: 799px) {
+        #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca tr {
+            display: block;
+            border: 3px solid rgba(0,0,0,0.3) !important;
+            margin-bottom: 10px !important;
+            position: relative;
+        }
+        #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca thead{
+            display: none;
+        }
+        #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca,
+        #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca td:first-child {
+            border: 0 !important;
+        }
+        #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca td {
+            display: block;
+        }
+        #wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca td.__dt_col_download_link {
+            display: block;
+            max-width: 100% !important;
+            width: auto !important;
+
+        }
+    }
+
+
+</style>
+<div class="w3eden">
+    <div id="wpdm-all-packages">
+        <table id="wpdmmydls-5597b4279aedfe02e6d33197a5c6a9ca" class="table table-striped wpdm-all-packages-table">
+            <thead>
+            <tr>
+                                <th style=""  id="title" class="">Title</th>
+                                <th style=""  id="updatedate" class="hidden-sm hidden-xs">Update Date</th>
+                                <th style="width: 155px !important;max-width: 155px !important;"  id="downloadlink" class="hidden-sm hidden-xs">Download</th>
+                
+            </tr>
+            </thead>
+            <tbody>
+            
+                    <tr class="__dt_row">
+                                                <td  class="__dt_col_0 __dt_col __dt_col_title" style="background-image: url('');background-size: 36px;background-position: 5px 8px;background-repeat:  no-repeat;padding-left: 52px;line-height: normal;">
+                            <strong>EasyJtag Classic Release v3.8.0.15 YMTC Fixes</strong><br/><span class='__dt_file_count small-txt'>1</span><span class='__dt_download_count small-txt'><i class="far fa-arrow-alt-circle-down"></i> 136 downloads</span><div class="hidden-md hidden-lg td-mobile"></div>
+
+                        </td>
+                                                <td  data-order="1777507200"  class="__dt_col_1 __dt_col __dt_col_update_date" >
+                            <span class='__dt_update_date'>30.04.2026</span>
+
+                        </td>
+                                                <td  class="__dt_col_2 __dt_col __dt_col_download_link" >
+                            <a class='wpdm-download-link download-on-click btn btn-primary' rel='nofollow' href='#' data-downloadurl="https://easy-jtag.com/download/easyjtag-classic-release-v3-8-0-14-esim-activation/?wpdmdl=32066&refresh=6a0bd62a46c111779160618">Download</a>
+
+                        </td>
+                        
+                    </tr>
+                
+                    <tr class="__dt_row">
+                                                <td  class="__dt_col_0 __dt_col __dt_col_title" style="background-image: url('');background-size: 36px;background-position: 5px 8px;background-repeat:  no-repeat;padding-left: 52px;line-height: normal;">
+                            <strong>EasyJTAG Plus Version 2.1.0.0  ( 01.12.25 )</strong><br/><span class='__dt_file_count small-txt'>1</span><span class='__dt_download_count small-txt'><i class="far fa-arrow-alt-circle-down"></i> 165014 downloads</span><div class="hidden-md hidden-lg td-mobile"></div>
+
+                        </td>
+                                                <td  data-order="1764460800"  class="__dt_col_1 __dt_col __dt_col_update_date" >
+                            <span class='__dt_update_date'>30.11.2025</span>
+
+                        </td>
+                                                <td  class="__dt_col_2 __dt_col __dt_col_download_link" >
+                            <a class='wpdm-download-link download-on-click btn btn-primary' rel='nofollow' href='#' data-downloadurl="https://easy-jtag.com/download/3229/?wpdmdl=3229&refresh=6a0bd62a646701779160618">Download</a>
+
+                        </td>
+                        
+                    </tr>
+                
+                    <tr class="__dt_row">
+                                                <td  class="__dt_col_0 __dt_col __dt_col_title" style="background-image: url('');background-size: 36px;background-position: 5px 8px;background-repeat:  no-repeat;padding-left: 52px;line-height: normal;">
+                            <strong>EasyJtag Classic Release v3.8.0.14 eSIM Activation</strong><br/><span class='__dt_file_count small-txt'>1</span><span class='__dt_download_count small-txt'><i class="far fa-arrow-alt-circle-down"></i> 176189 downloads</span><div class="hidden-md hidden-lg td-mobile"></div>
+
+                        </td>
+                                                <td  data-order="1761609600"  class="__dt_col_1 __dt_col __dt_col_update_date" >
+                            <span class='__dt_update_date'>28.10.2025</span>
+
+                        </td>
+                                                <td  class="__dt_col_2 __dt_col __dt_col_download_link" >
+                            <a class='wpdm-download-link download-on-click btn btn-primary' rel='nofollow' href='#' data-downloadurl="https://easy-jtag.com/download/easyjtag-release-v3-8-0-14_esim-exe/?wpdmdl=3225&refresh=6a0bd62a862e11779160618">Download</a>
+
+                        </td>
+                        
+                    </tr>
+                
+                    <tr class="__dt_row">
+                                                <td  class="__dt_col_0 __dt_col __dt_col_title" style="background-image: url('');background-size: 36px;background-position: 5px 8px;background-repeat:  no-repeat;padding-left: 52px;line-height: normal;">
+                            <strong>Easyjtag eMMC plus v2.0.2.0</strong><br/><span class='__dt_file_count small-txt'>1</span><span class='__dt_download_count small-txt'><i class="far fa-arrow-alt-circle-down"></i> 360096 downloads</span><div class="hidden-md hidden-lg td-mobile"></div>
+
+                        </td>
+                                                <td  data-order="1706227200"  class="__dt_col_1 __dt_col __dt_col_update_date" >
+                            <span class='__dt_update_date'>26.01.2024</span>
+
+                        </td>
+                                                <td  class="__dt_col_2 __dt_col __dt_col_download_link" >
+                            <a class='wpdm-download-link download-on-click btn btn-primary' rel='nofollow' href='#' data-downloadurl="https://easy-jtag.com/download/easyjtag-emmc-plus-v2-0-2-0/?wpdmdl=3188&refresh=6a0bd62aa9d4c1779160618">Download</a>
+
+                        </td>
+                        
+                    </tr>
+                
+                    <tr class="__dt_row">
+                                                <td  class="__dt_col_0 __dt_col __dt_col_title" style="background-image: url('');background-size: 36px;background-position: 5px 8px;background-repeat:  no-repeat;padding-left: 52px;line-height: normal;">
+                            <strong>Microsoft Redistributable Libraries Updater AIO</strong><br/><span class='__dt_file_count small-txt'>1</span><span class='__dt_download_count small-txt'><i class="far fa-arrow-alt-circle-down"></i> 213573 downloads</span><div class="hidden-md hidden-lg td-mobile"></div>
+
+                        </td>
+                                                <td  data-order="1635984000"  class="__dt_col_1 __dt_col __dt_col_update_date" >
+                            <span class='__dt_update_date'>04.11.2021</span>
+
+                        </td>
+                                                <td  class="__dt_col_2 __dt_col __dt_col_download_link" >
+                            <a class='wpdm-download-link download-on-click btn btn-primary' rel='nofollow' href='#' data-downloadurl="https://easy-jtag.com/download/microsoft-redistributable-libraries-updater-aio/?wpdmdl=3014&refresh=6a0bd62ad4cda1779160618">Download</a>
+
+                        </td>
+                        
+                    </tr>
+                
+                    <tr class="__dt_row">
+                                                <td  class="__dt_col_0 __dt_col __dt_col_title" style="background-image: url('');background-size: 36px;background-position: 5px 8px;background-repeat:  no-repeat;padding-left: 52px;line-height: normal;">
+                            <strong>Easyjtag eMMC plus v1.6.6.0 (latest 2023 fix)</strong><br/><span class='__dt_file_count small-txt'>1</span><span class='__dt_download_count small-txt'><i class="far fa-arrow-alt-circle-down"></i> 635057 downloads</span><div class="hidden-md hidden-lg td-mobile"></div>
+
+                        </td>
+                                                <td  data-order="1700870400"  class="__dt_col_1 __dt_col __dt_col_update_date" >
+                            <span class='__dt_update_date'>25.11.2023</span>
+
+                        </td>
+                                                <td  class="__dt_col_2 __dt_col __dt_col_download_link" >
+                            <a class='wpdm-download-link download-on-click btn btn-primary' rel='nofollow' href='#' data-downloadurl="https://easy-jtag.com/download/easyjtag-emmc-plus-v1-6-6-0-latest/?wpdmdl=2996&refresh=6a0bd62b05ac91779160619">Download</a>
+
+                        </td>
+                        
+                    </tr>
+                
+                    <tr class="__dt_row">
+                                                <td  class="__dt_col_0 __dt_col __dt_col_title" style="background-image: url('');background-size: 36px;background-position: 5px 8px;background-repeat:  no-repeat;padding-left: 52px;line-height: normal;">
+                            <strong>Easyjtag eMMC plus v1.6.4.0</strong><br/><span class='__dt_file_count small-txt'>1</span><span class='__dt_download_count small-txt'><i class="far fa-arrow-alt-circle-down"></i> 266211 downloads</span><div class="hidden-md hidden-lg td-mobile"></div>
+
+                        </td>
+                                                <td  data-order="1620345600"  class="__dt_col_1 __dt_col __dt_col_update_date" >
+                            <span class='__dt_update_date'>07.05.2021</span>
+
+                        </td>
+                                                <td  class="__dt_col_2 __dt_col __dt_col_download_link" >
+                            <a class='wpdm-download-link download-on-click btn btn-primary' rel='nofollow' href='#' data-downloadurl="https://easy-jtag.com/download/easyjtag-emmc-plus-v1-6-4-0-latest/?wpdmdl=2953&refresh=6a0bd62b33f351779160619">Download</a>
+
+                        </td>
+                        
+                    </tr>
+                                        </tbody>
+        </table>
+
+        <div class='text-center'><ul class='pagination wpdm-pagination pagination-centered text-center'></ul></div>
+    </div>
+</div>
+
+</pre>
+	
+<div id="footer-widgets">
+	<div class="clearfix container">
+	<div class="footer-widget"><div id="text-10" class="f_widget widget_text"><h4 class="widgettitle">Contacts</h4>			<div class="textwidget"></br>
+<strong> Our email</strong> 
+</br>
+<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="caa4a5a4aba7af8ab0f9b2e7beafaba7e4a9a5a7">[email&#160;protected]</a>
+</br></br>
+<strong> Support</strong> 
+</br>
+Easy-JTAG is built for professionals and novice users, and offers intuitive software interface. If you do run into trouble we provide a 
+<a target="_blank" href="http://forum.gsmhosting.com/vbb/f672/">Support Forum</a> , and precise <a target="_blank" href="http://forum.gsmhosting.com/vbb/f672/">Documentation</a>
+</div>
+		</div> <!-- end .footer-widget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-9" class="f_widget widget_text"><h4 class="widgettitle">We on Facebook</h4>			<div class="textwidget"><div class="fb-like-box" data-href="https://www.facebook.com/easyjtag" data-width="235" data-height="290" data-show-faces="true" data-stream="false" data-header="false"></div></div>
+		</div> <!-- end .footer-widget --></div> <!-- end .footer-widget -->	</div> <!-- end .container -->
+</div> <!-- end #footer-widgets -->
+	<div id="footer-bottom">
+		<div class="container clearfix">
+			<ul class="bottom-nav">				<li ><a href="https://easy-jtag.com">Home</a></li>
+			<li class="page_item page-item-3202"><a href="https://easy-jtag.com/ufs-4-bga153-hotfix/">UFS 4.0 THGJFJT1E45BATPC BGA153 HotFix</a></li>
+<li class="page_item page-item-1696"><a href="https://easy-jtag.com/emmc-forensis-with-autopsy/">eMMC Forensis with Autopsy</a></li>
+<li class="page_item page-item-1693"><a href="https://easy-jtag.com/monolith-pinout-determination-guide-variant-1/">Monolith pinout determination guide. Variant 1</a></li>
+<li class="page_item page-item-1687"><a href="https://easy-jtag.com/locating-emmc-test-points-pulloff/">Locating eMMC Test Points PullOFF</a></li>
+<li class="page_item page-item-1684"><a href="https://easy-jtag.com/chip-off-technique-in-mobile-forensics/">CHIP-OFF TECHNIQUE IN MOBILE FORENSICS</a></li>
+<li class="page_item page-item-1681"><a href="https://easy-jtag.com/emmc-isp-tp-discovery/">eMMC ISP TP Discovery</a></li>
+<li class="page_item page-item-1672"><a href="https://easy-jtag.com/faq-pinouts/">FAQ.Pinouts</a></li>
+<li class="page_item page-item-1665"><a href="https://easy-jtag.com/easyjtag-2nd-generation-hw/">EasyJTAG Plus Box Hardware</a></li>
+<li class="page_item page-item-1635"><a href="https://easy-jtag.com/third-party-software-easyapi/">Third party software ( EasyAPI )</a></li>
+<li class="page_item page-item-1711"><a href="https://easy-jtag.com/guide-for-resizing-gpt-partitions/">Guide for resizing GPT partitions</a></li>
+<li class="page_item page-item-1780"><a href="https://easy-jtag.com/easyjtag-emmc-socket/">EasyJTAG eMMC Socket</a></li>
+<li class="page_item page-item-3039"><a href="https://easy-jtag.com/easyjtag-3-box/">EasyJTAG Plus 2023</a></li>
+<li class="page_item page-item-3019"><a href="https://easy-jtag.com/3019-2/">#3019 (no title)</a></li>
+<li class="page_item page-item-2957"><a href="https://easy-jtag.com/accessories/">Accessories</a></li>
+<li class="page_item page-item-2909"><a href="https://easy-jtag.com/z3x-certified-trainers/">EasyJTAG Team Certified Trainers</a></li>
+<li class="page_item page-item-1929"><a href="https://easy-jtag.com/ufs-2-1-memory-kit/">UFS 2.1 Memory KIT</a></li>
+<li class="page_item page-item-1932"><a href="https://easy-jtag.com/ufs-memory/">UFS Memory (new)</a></li>
+<li class="page_item page-item-1896"><a href="https://easy-jtag.com/monolith-pinout-search-guide/">Monolith pinout search guide</a></li>
+<li class="page_item page-item-1834"><a href="https://easy-jtag.com/nand-kit-2/">EasyJTAG NANDKit</a></li>
+<li class="page_item page-item-1632"><a href="https://easy-jtag.com/easyjtag-plus-software/">EasyJTAG Plus Software</a></li>
+<li class="page_item page-item-1624"><a href="https://easy-jtag.com/%d0%ba%d0%be%d0%bd%d1%84%d0%b8%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%be%d0%b2-%d0%be-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0/">КОНФИДЕНЦИАЛЬНОСТЬ ОТЧЕТОВ О ОШИБКАХ</a></li>
+<li class="page_item page-item-1617"><a href="https://easy-jtag.com/crash-report-privacy-policy/">CRASH REPORT PRIVACY POLICY</a></li>
+<li class="page_item page-item-1936"><a href="https://easy-jtag.com/ufskit/">EasyJTAG UFS Kit (new)</a></li>
+<li class="page_item page-item-1461"><a href="https://easy-jtag.com/knowledge-base-manuals/">Knowledge Base ( Manuals )</a></li>
+<li class="page_item page-item-1492"><a href="https://easy-jtag.com/easyjtag-in-plastic-case/">EasyJTAG in Plastic Case</a></li>
+<li class="page_item page-item-1497"><a href="https://easy-jtag.com/easyjtag-in-steel-case/">EasyJTAG in Steel Case</a></li>
+<li class="page_item page-item-1507"><a href="https://easy-jtag.com/easyjtag-acessories/">EasyJTAG GEN1 Accessories</a></li>
+<li class="page_item page-item-2038"><a href="https://easy-jtag.com/easyjtag-plus-accessories/">EasyJTAG Plus Accessories</a></li>
+<li class="page_item page-item-1527"><a href="https://easy-jtag.com/android-emmc-explorer/">Android eMMC Explorer [Free Addon]</a></li>
+<li class="page_item page-item-1531"><a href="https://easy-jtag.com/easyjtag-suite/">EasyJTAG Suite</a></li>
+<li class="page_item page-item-1597"><a href="https://easy-jtag.com/search-issues/">Search Issues</a></li>
+<li class="page_item page-item-1596"><a href="https://easy-jtag.com/issue-entry/">Issue Entry</a></li>
+<li class="page_item page-item-1567"><a href="https://easy-jtag.com/phones-pinouts/">Phones Pinouts</a></li>
+<li class="page_item page-item-1540"><a href="https://easy-jtag.com/lg-activation-pro-paid-add-on/">LG activation PRO (Paid Add-on)</a></li>
+<li class="page_item page-item-1534"><a href="https://easy-jtag.com/z3x-samsung-pro-paid-addon/">Z3X Samsung PRO (Paid Add-on)</a></li>
+<li class="page_item page-item-2029"><a href="https://easy-jtag.com/academy/">e-Academy</a></li>
+<li class="page_item page-item-1362"><a href="https://easy-jtag.com/?page_id=1365">Easy JTAG Plus</a></li>
+<li class="page_item page-item-1351"><a href="https://easy-jtag.com/hardware/">Hardware</a></li>
+<li class="page_item page-item-1367"><a href="https://easy-jtag.com/software-2/">Software</a></li>
+<li class="page_item page-item-1359"><a href="https://easy-jtag.com/?page_id=1369">Buy now!</a></li>
+<li class="page_item page-item-1349 current_page_item"><a href="https://easy-jtag.com/downloads/" aria-current="page">Downloads</a></li>
+<li class="page_item page-item-1347"><a href="https://easy-jtag.com/buy-jtag/">Buy Jtag</a></li>
+</ul>
+			<p id="copyright"> Created by <a target="_blank" href="http://etnosoft.com" title="Etnosoft">Etnosoft</a></p>
+		</div> <!-- end .container -->
+	</div> <!-- end #footer-bottom -->
+
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/ElegantFusion/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+            <script>
+                const abmsg = "We noticed an ad blocker. Consider whitelisting us to support the site ❤️";
+                const abmsgd = "download";
+                const iswpdmpropage = 0;
+                jQuery(function($){
+
+                    
+                });
+            </script>
+            <div id="fb-root"></div>
+            <!-- Lightbox Plus Colorbox v2.7.2/1.5.9 - 2013.01.24 - Message: 0-->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8});
+});
+</script>
+				<script async data-category="statistics"
+						src="https://www.googletagmanager.com/gtag/js?id=UA-52069840-1"></script>			<script data-category="functional">
+				window['gtag_enable_tcf_support'] = false;
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-52069840-1', {
+	cookie_flags:'secure;samesite=none',
+	'anonymize_ip': true
+});
+							</script>
+			<script type="text/javascript" src="https://easy-jtag.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://easy-jtag.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://easy-jtag.com/wp-includes/js/jquery/jquery.form.min.js?ver=4.3.0" id="jquery-form-js"></script>
+<script type="text/javascript" src="https://easy-jtag.com/wp-content/themes/ElegantFusion/js/superfish.js?ver=1.0" id="superfish-js"></script>
+<script type="text/javascript" id="custom_script-js-extra">
+/* <![CDATA[ */
+var et_custom = {"mobile_nav_text":"Navigation Menu"};
+//# sourceURL=custom_script-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://easy-jtag.com/wp-content/themes/ElegantFusion/js/custom.js?ver=1.0" id="custom_script-js"></script>
+<script type="text/javascript" src="https://easy-jtag.com/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.7" id="page-links-to-js"></script>
+<script type="text/javascript" id="facebook-jssdk-js-extra">
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"xfbml":true});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+//# sourceURL=facebook-jssdk-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="https:\/\/connect.facebook.net\/en_US\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
+<script type="text/javascript" src="https://easy-jtag.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=14.2.6" id="__ytprefsfitvids__-js"></script>
+<script type="text/javascript" src="https://easy-jtag.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9" id="jquery-colorbox-js"></script>
+<script type="text/javascript" src="https://easy-jtag.com/wp-content/themes/ElegantFusion/epanel/page_templates/js/fancybox/jquery.easing-1.3.pack.js?ver=1.3.4" id="easing-js"></script>
+<script type="text/javascript" src="https://easy-jtag.com/wp-content/themes/ElegantFusion/epanel/page_templates/js/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.3.4" id="fancybox-js"></script>
+<script type="text/javascript" id="et-ptemplates-frontend-js-extra">
+/* <![CDATA[ */
+var et_ptemplates_strings = {"captcha":"Captcha","fill":"Fill","field":"field","invalid":"Invalid email"};
+//# sourceURL=et-ptemplates-frontend-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://easy-jtag.com/wp-content/themes/ElegantFusion/epanel/page_templates/js/et-ptemplates-frontend.js?ver=1.1" id="et-ptemplates-frontend-js"></script>
+<script type="text/javascript" src="https://easy-jtag.com/wp-content/plugins/facebook/static/js/extras/analytics/google-analytics.min.js?ver=1.1.9" id="facebook-google-analytics-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://easy-jtag.com/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://easy-jtag.com/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(function(){if(FB_WP.queue && FB_WP.queue.add){FB_WP.queue.add(function(){FB_WP.extras.analytics.google.init()})}});</script><div id="fb-root"></div><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a00e201b7a4f989c',t:'MTc3OTY0NDg0NQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html><!--
+Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com
+
+Retrieved 4860 objects (1 MB) from Redis using Predis (v2.4.0).
+-->
